@@ -1,0 +1,2 @@
+GitHub on platvorm, mis põhineb versioonihaldussüsteemil Git, ja see võimaldab arendajatel ja meeskondadel hallata projekte, jälgida muudatusi koodis ja teha koostööd teiste kasutajatega. 
+GitHubis saab hoida lähtekoodi, dokumentatsiooni, jälgida vigu, luua ülesandeid ja palju muud.
